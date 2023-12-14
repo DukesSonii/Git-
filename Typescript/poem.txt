@@ -1,1 +1,4 @@
 Twinkle twinkle little star
+commit -> jo file yaha pe create ki h jo local repository (computer) usme save krna h
+or global h github
+to save in local repositroy use cmd git add.-> jtni bhi changes hua h unko add kr dijiye
